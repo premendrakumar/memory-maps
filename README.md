@@ -10,9 +10,10 @@
 - AWS - 6y
 
 
-# Other Tech Stacks (Not practicing)
+# Other Tech Stacks (Not practicing or directly using)
 - Adobe Flex 4
 - Struts 2
+- AngularJS
 
 
 # References
