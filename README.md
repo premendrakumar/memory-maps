@@ -1,22 +1,29 @@
 # Tech Stacks in Practice
-- Java - 14y
-- Spring Boot - 8y
-- Unit Testing - 10y
-- ReactJs - 8y
-- Microservices - 8y
-- Design Patterns 10y
-- Coding Best Practices - 12y
-- Team Leading and Collaborations - 6y
-- AWS - 6y
 
+🌟 **Core Expertise:**  
+- **Java** – 14 years of hands-on experience  
+- **Spring Boot** – 8 years of building robust applications  
+- **Unit Testing** – 10 years of ensuring quality code  
+- **ReactJS** – 8 years of creating dynamic UIs  
+- **Microservices** – 8 years of crafting scalable architectures  
+- **Design Patterns** – 10 years of applying proven solutions  
+- **Coding Best Practices** – 12 years of writing maintainable code  
+- **Team Leadership & Collaboration** – 6 years of guiding and mentoring teams  
+- **AWS** – 6 years of leveraging cloud technologies  
 
-# Other Tech Stacks (Not practicing or directly using)
-- Adobe Flex 4
-- Struts 2
-- AngularJS
+---
 
+# Other Tech Stacks  
+(Not actively practicing but experienced in the past):  
+- **Adobe Flex 4** – Proficient in creating interactive UIs  
+- **Struts 2** – Delivered structured web applications  
+- **AngularJS** – Developed modern front-end apps  
 
-# References
-Here are some recommended learning resources: 
-- [Java and Related APIs documentation](./documentation.md#java-and-related-apiIs)
-- [ReactjS Documentation](./documentation.md#reactjs)
+---
+
+# References  
+
+📚 **Recommended Learning Resources:**  
+- [Java and Related APIs Documentation](./documentation.md#java-and-related-apis)  
+- [ReactJS Official Guide](./documentation.md#reactjs)  
+
