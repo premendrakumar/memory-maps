@@ -7,7 +7,7 @@
 - Design Patterns 10y
 - Coding Best Practices - 12y
 - Team Leading and Collaborations - 6y
-- AWS 
+- AWS - 6y
 
 
 # Other Tech Stacks (Not practicing)
