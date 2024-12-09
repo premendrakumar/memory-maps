@@ -15,8 +15,8 @@ Here are the official documentation sites for Java and related tools:
    The open-source reference for the Java Development Kit (JDK).  
    
 
-### **Java Frameworks and Libraries**: [https://spring.io/docs](https://spring.io/docs)  
-3. **Spring Framework**  
+### **Java Frameworks and Libraries**:   
+3. **Spring Framework**: [https://spring.io/docs](https://spring.io/docs)  
    Official documentation for the Spring Framework, including Spring Boot.  
    
 
@@ -28,8 +28,8 @@ Here are the official documentation sites for Java and related tools:
    Official documentation for the Jakarta EE platform (enterprise Java).  
    
 
-### **Java Tools and Build Systems**: [https://maven.apache.org/guides/](https://maven.apache.org/guides/)
-6. **Maven Documentation**  
+### **Java Tools and Build Systems**: 
+6. **Maven Documentation**: [https://maven.apache.org/guides/](https://maven.apache.org/guides/)  
    Guide and reference for Apache Maven, a popular Java build tool.  
    
 
