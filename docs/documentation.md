@@ -4,6 +4,9 @@
    Comprehensive documentation for Java SE (Standard Edition).  
 - **OpenJDK Documentation**: [https://openjdk.org/](https://openjdk.org/)  
    The open-source reference for the Java Development Kit (JDK). 
+- **Java Documentation**: [https://docs.oracle.com/en/java/index.html](https://docs.oracle.com/en/java/index.html)
+- **Java Platform, Standard Edition (Java SE) 8**: [https://docs.oracle.com/javase/8/](https://docs.oracle.com/javase/8/)
+- **Java Platform Standard Edition 8 Documentation**: [https://docs.oracle.com/javase/8/docs/index.html](https://docs.oracle.com/javase/8/docs/index.html)
 
 
 
@@ -115,7 +118,11 @@
 ---
 
 
+# Java Frameworks and Libraries:  Project Lombok
+- **Project Lombok Documentation**: [https://projectlombok.org/features/](https://projectlombok.org/features/)
 
+
+**Details can be checked [here](./topics/project-lombok/index.md)**
 
 
 
