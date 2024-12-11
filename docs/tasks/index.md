@@ -1,0 +1,7 @@
+- Publish first library project for
+    - **Java**
+      - Details can be found [here](./publish-first-java-library/index.md)
+    - **JavaScript**
+      - Details can be found [here]()
+    - **ReactJS Components**
+      - Details can be found [here]()
