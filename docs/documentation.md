@@ -174,6 +174,19 @@
 
 - **DefinitelyTyped**: [https://github.com/DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)  
    Repository for TypeScript type definitions.  
-   
+
+
+
+---
+
+### **Data Structures and Algorithms**
+- **Must Know Algorithms**: [https://dev.to/nozibul_islam_113b1d5334f/must-know-algorithms-3735?context=digest](https://dev.to/nozibul_islam_113b1d5334f/must-know-algorithms-3735?context=digest) 
+- 
+
+
+---
+
+### **Version Control Systems:  GitHub**
+**Details can be checked [here](./topics/git/index.md)**
 
 

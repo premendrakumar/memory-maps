@@ -26,7 +26,7 @@ _(No links currently available)_
         - [ES6 Tutorials by Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-0FlQnruw2rd1HuiYJHHkm)  
 
 # Unclassified Links  
-_(No links currently available)_  
+Click [here](./unclassified-links.md) for details.
 
 ---
 
