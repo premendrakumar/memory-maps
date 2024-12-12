@@ -1,10 +1,10 @@
 <section style="text-align: center;">
-    <h1>ReactJS</h1>
+    <h1>Data Structures and Algorithms (DSA)</h1>
     <p><em>Helper page to learn and revise concepts</em></p>
 </section>
 
 # Introduction
-- **Documentation**: [ReactJS Documentation](../../documentation.md#xxxx-xxxx)
+- **Documentation**: [DSA Documentation](../../documentation.md#xxxx-xxxx)
 - **Key Terminologies**:
 - **Versions and major feature introduced**:
 - **FAQs**:
@@ -12,7 +12,7 @@
 
 # References
 **Official Code Repo**
-- [ReactJS Code](https://github.com/xxxx)
+- [DSA Code](https://github.com/xxxx)
 
 **Few useful links (Bookmarked)**
 - [sample title](.)
@@ -21,11 +21,11 @@
 - [sample title](.)
 
 **Courses**
-- **ReactJS Courses**: [https://course.link](https://course.link)
+- **DSA Courses**: [https://course.link](https://course.link)
 
 
 **Code References**
-- [Code Repo](https://github.com/xxx)
+- [DSA Repo](https://github.com/xxx)
 
 
 

@@ -18,7 +18,7 @@
 - [**Adobe Flex 4**](./docs/topics/adobe-flex-4/index.md) – Proficient in creating interactive UIs  
 - [**Struts 2**](./docs/topics/struts-2/index.md) – Delivered structured web applications  
 - [**AngularJS**](./docs/topics/angular-js//index.md) – Developed modern front-end apps  
-- [**Talend**](./docs/topics/talend/index.md) – 
+- [**Talend**](./docs/topics/talend/index.md) – Designed and implemented efficient ETL workflows
 
 ---
 
@@ -31,4 +31,5 @@
 - [Technical Skill Development Platforms](./docs/technical-skill-development-platforms/index.md)
 - [Raw Link Pool](./docs/link-pool/index.md)
   - Links inside this pool will be distributed to corresponding topics' section.
-
+- [Tasks: Ongoing and TBDLs](./docs/tasks/index.md)
+- [Job Quest Feb'2024-TBD](./docs/frequently-asked-questions/FAQs-job-quest-feb-2024.md)
