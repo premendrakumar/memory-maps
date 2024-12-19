@@ -37,4 +37,4 @@
 - [**Example Spring Boot Rest Project with Best Practices**](https://github.com/sameer05515/java-playground/blob/main/node-service/Readme.md)
 - [**Example React+TS project to consume above Rest Project**](https://github.com/sameer05515/react-projects/tree/master/node-service-frontend)
   - Was facing issue while getting error message sent from `node-service` API, with using `axios`.
-  - issue resolved. click [here](https://github.com/sameer05515/react-projects/blob/work-branch/node-service-frontend/index.md) for details
+  - issue resolved. click [here](https://github.com/sameer05515/react-projects/blob/master/node-service-frontend/index.md) for details
