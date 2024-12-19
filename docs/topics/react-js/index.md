@@ -27,6 +27,11 @@
 **Code References**
 - [Code Repo](https://github.com/xxx)
 
+# Other Links
+- [**React Redux Tutorial**](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
+- [**Redux Tutorial - Learn Redux from Scratch**](https://www.youtube.com/watch?v=poQXNp9ItL4)
+- [**Top 50 Most Asked JavaScript Logical Interview Questions || Must Watch**](https://www.youtube.com/watch?v=65slMcTFSMM)
+
 
 
 
