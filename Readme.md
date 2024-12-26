@@ -38,3 +38,8 @@
 - [**Example React+TS project to consume above Rest Project**](https://github.com/sameer05515/react-projects/tree/master/node-service-frontend)
   - Was facing issue while getting error message sent from `node-service` API, with using `axios`.
   - issue resolved. click [here](https://github.com/sameer05515/react-projects/blob/master/node-service-frontend/index.md) for details
+
+
+📚 **Other Learning Resources:**  
+- [**Demonstration of a Spring Boot controller showcasing various methods of
+`org.springframework.http.ResponseEntity`**](https://github.com/sameer05515/java-playground/blob/main/node-service/src/main/java/com/p/api/node/service/responseEntityDemo/Readme.md)
