@@ -49,6 +49,7 @@
 - Frequency of interview-schedules have reduced drastically now these days.
 - I have a huge experience on my resume, but it is not in one direction. So it is very difficult for me to choose which topics I should prepare first. I have tried to make several applications to prioritize my skills on which must work, but every time i have felt that there is something missing in my application and I again start to build something else from scratch.
 - **I do not `revise`. Neither I `practice regularly` for what I have identified so far important as per feedback of my past interviews**
+- I feel anxious from a long period, and loose my hope.
 
 
 ----------------------------------
