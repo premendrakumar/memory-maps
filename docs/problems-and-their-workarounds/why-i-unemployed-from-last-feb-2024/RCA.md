@@ -1,0 +1,72 @@
+# Root cause analysis: Why I am not able to get a job opportunity?
+> Or, Why I am not able to get selected?  
+> Or why there is gap of about 1 year and I am still not able to revive my carreer from 22nd Feb 2024 until today 24 Jan 2024?  
+
+
+## Answers
+
+### Reason: `I am the culprit`
+-  I am `Jack of all, but master of none` for tech-stacks mentioned in my resume.
+-  I have several switches in my carreer.
+-  I have done so many things in my employment, but I do not able to explain well in interview.
+-  Although I have used java in all of my projects and I mention that ~~I have **14** years~~ of java experience , but I do not have deep knowledge about java. Especially, I have no deep understanding for below in `java and related technology family` 
+   - spring boot, 
+   - microservices, 
+   - docker, 
+   - AWS and other cloud technologies
+   - Spring security and latest keycloak, OAuth2
+   - Multithreading and concurrency
+   - Java 8 and newer version features
+   - Design Patterns and SOLID principles.
+
+- I fear by writing code with java. Also I get discouraged soon after a few un successful attempts of resolving issues faced in a java program.
+
+- I have been working to develop frontend applications using reactjs in various ways (CRA, vite, nextjs) successfully, but in interviews I get stucked among key terminology questions related to them.
+
+- Also in various interviews, interviewer even didn't asked from frontend technologies or backend development using Node or Express.
+
+- I am just doing development of several new frontend GUIs. Also I have improvised look and feel of old react applications, but `at-time-of-need` i.e. `during-interview-calls` I do not able to re-call them.
+
+### Reason: `My Previous companies are culprit`
+- Compnanies did not paid me well.
+- I did not choose good companies, where I can earn better and learn and implement new technologies.
+- One of my previous companies `laid-off` me in just 3 months. This has become the biggest bottleneck of my carreer.
+
+
+### Reason: `My matrimonial issues are culprit`
+- From year 2015 onwards till the time, I have been facing matrimonial issues and false cases against me and my family. This is also a big reason due to which I have just accomplished the tasks given to me. But I have not kept a track for what I did and what I learned.
+
+### Reason: `Interviewing companies are culprit`
+- Interviewing companies do not want me the same salary as that of my last CTC so they are making excuses of 
+   - my frequent switches
+   - reason for switching so frequently
+- Several companies, now these days, are just taking details from my side, but they are not for further interview process.
+- Several companies have taken a couple of interview rounds, but later they have rejected my candidature by saying `your expected CTC` is very high.
+
+### Reason: `Miscellaneous`
+- I am not prepared to work as a `Tech-lead` or any higher post.
+- I do not want to work-from-office or go outside Delhi/NCR.
+- Frequency of interview-schedules have reduced drastically now these days.
+- I have a huge experience on my resume, but it is not in one direction. So it is very difficult for me to choose which topics I should prepare first. I have tried to make several applications to prioritize my skills on which must work, but every time i have felt that there is something missing in my application and I again start to build something else from scratch.
+- **I do not `revise`. Neither I `practice regularly` for what I have identified so far important as per feedback of my past interviews**
+
+
+----------------------------------
+## My questions to self, just answer yes or no
+
+**Have I `practiced coding for java regularly` after job loss?**
+
+`no`. This is due to I have invested most of the time to learn React, JavaScript, NodeJS, Docker, Kubernetes. But still I am not able to answer properly interview questions related to them.
+
+**Am I regularly revising `key terminologies` related to topics mentioned in resume?**
+
+`no`
+
+**Do I have a list of FAQs asked in interviews?**
+
+`partially yes`, but questions are not at one place. Rather few of them are either in `Topic-mgmt`, or `Interview-mgmt`, or `memory-maps` or `ChatGPT conversations`. Few questions I have collected in ChatRenderer application. But I am not regularly revising them.
+
+
+-------------------
+
+
