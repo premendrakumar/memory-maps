@@ -1,8 +1,9 @@
 
 > # Iteration: 16-Feb-2025--v0
 > - # Prioritize: What to do today?
-> - **Status**: ~Grooming in progress~ 🏃‍♂️‍➡️Working
+> - **Status**: ~Grooming in progress~ ~🏃‍♂️‍➡️Working~ ✅Done
 > - **Target close date**: *16-feb-2025, 8:00 PM.*
+> - **Actual close date**: _17-feb-2025, 1:23 PM._
 > - **What we learn from this activity?**: TBD
 
 ---
