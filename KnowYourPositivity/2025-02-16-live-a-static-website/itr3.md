@@ -17,7 +17,7 @@
   - koi particular `directory-structure` follow karna hoga kya, Github-Pages ke liye??
   - code review karwaye ChatGPT baba se?? 🚀🚀🚀
 
-**List of changes going to be live today**
+**KnowYourPositivity.v1.0.1: List of changes going to be live today**
 - A basic structure with below changes.
   - A layout having a header, main-section, footer
     - in main section, 
@@ -25,7 +25,7 @@
       - static data (basic one)
     - header - containing title and punch line
     - footer having 
-      - about button (on click a small description for **Introduction and Why**)
+      - about button (on click a small description for **Introduction and Why** with normal English, targetting non-native speakers.)
       - thank you note
       - a toggle button
     - a suitable place in footer bottom for `KnowYourPositivity.v1.0.1`
