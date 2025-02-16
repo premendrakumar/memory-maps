@@ -1,6 +1,6 @@
 
 > - # Prioritize: What to do today?
-> - **Status**: ~🏃‍♂️‍➡️Working~
+> - **Status**: ~Grooming in progress~ 🏃‍♂️‍➡️Working
 > - **Target close date**: *16-feb-2025, 8:00 PM.*
 > - **What we learn from this activity?**: TBD
 
