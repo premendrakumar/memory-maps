@@ -19,4 +19,4 @@
 **Questions**
 - repo me files kaise rakhenge?
   - koi particular `directory-structure` follow karna hoga kya, Github-Pages ke liye??
-  - code review karwaye ChatGPT baba se 🚀🚀🚀
+  - code review karwaye ChatGPT baba se?? 🚀🚀🚀
