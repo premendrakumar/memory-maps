@@ -13,7 +13,21 @@
 **Aaj ka mission toh pura karna hi hai! KnowYourPositivity.v1.0.1 LIVE hoke rahega! 💪🔥**
 
 **Questions**
-
 - repo me files kaise rakhenge?
   - koi particular `directory-structure` follow karna hoga kya, Github-Pages ke liye??
   - code review karwaye ChatGPT baba se?? 🚀🚀🚀
+
+**List of changes going to be live today**
+- A basic structure with below changes.
+  - A layout having a header, main-section, footer
+    - in main section, 
+      - caraousel with prev-next buttons, which is visible on hover thier divs.
+      - static data (basic one)
+    - header - containing title and punch line
+    - footer having 
+      - about button (on click a small description for **Introduction and Why**)
+      - thank you note
+      - a toggle button
+    - a suitable place in footer bottom for `KnowYourPositivity.v1.0.1`
+
+
