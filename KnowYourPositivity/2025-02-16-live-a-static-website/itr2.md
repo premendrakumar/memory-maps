@@ -3,7 +3,7 @@
 > - **Status**: ~Grooming in progress~ ~🏃‍♂️‍➡️Working~ ✅Closed 
 > - **Target close date**: *16-feb-2025, 8:00 PM.*
 > - **What we learn from this activity?**: कुछ अच्छा करो तोह मन को कीड़ा काटता है 😂, so just ignore it!!
-> **Decision Taken**: ***Kar ke rahenge***
+> - **Decision Taken**: ***Kar ke rahenge***
 
 
 ---
