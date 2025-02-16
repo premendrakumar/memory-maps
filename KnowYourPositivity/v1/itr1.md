@@ -1,10 +1,8 @@
 
 
-> **Status**: 🏃‍♂️‍➡️Working
-> **Target close date**: 
->  - 16-feb-2025, 8:00 PM.
-> **What we learn from this activity?**
->  - TBD
+> - **Status**: 🏃‍♂️‍➡️Working
+> - **Target close date**: *16-feb-2025, 8:00 PM.*
+> - **What we learn from this activity?**: TBD
 
 ---
 
