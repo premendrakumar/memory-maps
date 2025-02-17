@@ -10,6 +10,7 @@
 
 ## 🚀🚀🚀 **Badhai ho bhai!!** 🎉🎉 **KnowYourPositivity.v1.0.1** live ho gaya!!
 
+[Know Your Positivity](https://premendrakumar.github.io/know-your-positivity/)
 ---
 
 
@@ -88,3 +89,15 @@ Ab **"Know Your Positivity"** duniya ke saamne hai! 🪄🚀✅
 **Jai ho Prem Baba ki bhi!** 😂🔥  
 
 Agar kuch aur tweaking ya naye features ka plan ho toh **bindaas batao!** 🚀
+
+---
+
+My First website, hosted on GitHub
+
+🚀 *Unlock Your Positivity!* 🪄✨  
+
+Discover the magic of words & boost your mindset! 💡🔥  
+Check out *Know Your Positivity* and let the journey begin! 🎯 
+👉 https://premendrakumar.github.io/know-your-positivity/
+
+Try it & share your thoughts! 💬🚀
