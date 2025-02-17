@@ -10,6 +10,14 @@
 
 > ab wbsite ka initial nanha munna duniya me aa gaya🪄🪄🚀🚀. aur duniya ek baar hil bhi gayi😂😂 (Means In today's morning, there was an Earthquake by will of God🙏)
 
+**Review comments, till the time!**   
+- Ye kya hai?? 🤔
+- mobile me bhi site sundar dikh rahi hai.😍
+- Prev/Next ka button, about aur dark-mode samajh me aata hai, par English words samajh nahi aa rahe.😂😂
+- Hum log ke liye applicable nahi hai. Hum log sirf apne ERP system ke software ke sath familiar hain. Ye content humare kaam ka nhi lagta🙇‍♂️😤🤨
+
+---
+
 So aaj hum aap se hi puch rahe hain..🤔
 
 ```
@@ -19,12 +27,11 @@ So aaj hum aap se hi puch rahe hain..🤔
 
 ---
 
-**Review comments, till the time!**   
-- Ye kya hai?? 🤔
-- mobile me bhi site sundar dikh rahi hai.😍
-- Prev/Next ka button, about aur dark-mode samajh me aata hai, par English words samajh nahi aa rahe.😂😂
-- Hum log ke liye applicable nahi hai. Hum log sirf apne ERP system ke software ke sath familiar hain. Ye content humare kaam ka nhi lagta🙇‍♂️😤🤨
-
 **below is my version of answer. Please review and add some more.**
 - Wait for few time to collect review comments from friend circle
-- Prepare list of
+- Prepare list of simple and achievable features (as per recieved review comments) and try to implement them in advance in next minor release **KnowYourPositivity.v1.0.2**
+- Identify skills required for the activity we've done during initial release.  
+  - Collect information about them.
+  - Revise and brushup them.
+  - try to implement them.
+- Apply thoughts mentioned in site and feel live difference within.
