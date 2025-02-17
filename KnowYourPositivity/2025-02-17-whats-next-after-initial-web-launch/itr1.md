@@ -30,6 +30,7 @@ So aaj hum aap se hi puch rahe hain..🤔
 **below is my version of answer. Please review and add some more.**
 - Wait for few time to collect review comments from friend circle
   - Till then, do as per your routine **Practice to perform well in interview** (My conventional identified source of income)
+  - Take a chill-pill and get enerzied for new adventures.
 - Prepare list of simple and achievable features (as per recieved review comments) and try to implement them in advance in next minor release **KnowYourPositivity.v1.0.2**
 - Identify skills required for the activity we've done during initial release.  
   - Collect information about them.
