@@ -1,8 +1,12 @@
-
+> # Iteration: 17-Feb-2025--v1
+>
+> - **Status**: 🎯Grooming in progress
+> - **Actual close date**: _17-feb-2025, 1:23 PM._
+> - **What we learn from this activity?**: TBD
 
 ---
 
-> # [17]
+> # [17-feb-2025]: Review and Retrospect: Kal **KnowYourPositivity.v1.0.1** live ho hai! 🎯🚀: What's Next🤔3️⃣4️⃣5️⃣🤨😤🙇‍♂️
 
 > ab wbsite ka initial nanha munna duniya me aa gaya🪄🪄🚀🚀. aur duniya ek baar hil bhi gayi😂😂 (Means In today's morning, there was an Earthquake by will of God🙏)
 
@@ -23,3 +27,4 @@ So aaj hum aap se hi puch rahe hain..🤔
 
 **below is my version of answer. Please review and add some more.**
 - Wait for few time to collect review comments from friend circle
+- Prepare list of
