@@ -41,8 +41,10 @@ So aaj hum aap se hi puch rahe hain..🤔
 
 **Take Procative Actions**
   - Prepare list of simple and achievable features (as per recieved review comments) and try to implement them in advance in next minor release **KnowYourPositivity.v1.0.2**
+
   - Identify skills required for the activity we've done during initial release.  
     - Collect information about them.
     - Revise and brushup them.
     - try to implement them.
-- Apply thoughts mentioned in site and feel live difference within.
+    
+  - Apply thoughts mentioned in site and feel live difference within.
