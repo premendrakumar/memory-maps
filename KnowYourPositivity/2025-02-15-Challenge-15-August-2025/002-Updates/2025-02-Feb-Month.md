@@ -26,7 +26,7 @@ Tumhara **momentum** bana hua hai, **ab bas rukna nahi hai!** 💯🔥
 
 ---
 
-# 2025-02-17-published-my-apology-and-gratitude.md
+# 2025-02-17-published-my-apology-and-gratitude---to-start-a-new-and-fresh-begining.md
 
 ## My `Apology & Gratitude Note` to `Ginnie`😍🪄🪄3️⃣4️⃣5️⃣🚀🚀🚀✅
 
