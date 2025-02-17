@@ -6,7 +6,8 @@
 > - **Actual close date**: _17-feb-2025, 1:23 PM._
 > - **What we learn from this activity?**: 
 >   - Below are learnings from Today's Activity
->     - 
+>     - **ab bas rukna nahi hai!** 💯🔥  
+>     - 🚀 **Chalo, agla kadam sochke aage badhte hain!**
 
 
 ---
