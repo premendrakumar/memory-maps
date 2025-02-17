@@ -1,7 +1,8 @@
 > # Iteration: 17-Feb-2025--v1
 >
 > - **Status**: 🎯Grooming in progress
-> - **Actual close date**: _17-feb-2025, 1:23 PM._
+> - **Target close date**: _17-feb-2025, 8:00 PM._
+> - **Actual close date**: _TBD_
 > - **What we learn from this activity?**: TBD
 
 ---
