@@ -7,12 +7,13 @@
 > - **Target close date**: _18-feb-2025, 8:00 PM._
 > - **Actual close date**: _TBD_
 > - **What we learn from this activity?**: TBD
+> - **Purpose of this Iteration**: **Step 1: Decide How to collect and process data🪄🪄.**
 
 ---
 
 # **🎯Goal**: Simplify processing and retrieval of `meaningful-informations` from a chat backup file.
 
-
+## Stay calm, review, prioritize first!!
 
 ---
 
