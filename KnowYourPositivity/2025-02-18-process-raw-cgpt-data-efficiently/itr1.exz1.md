@@ -10,7 +10,7 @@
 
 ---
 
-# **MUST HAVE** TODO: Simplify processing and retrieval of `meaningful-informations` from a chat backup file.
+# **🎯Goal**: Simplify processing and retrieval of `meaningful-informations` from a chat backup file.
 
 
 
