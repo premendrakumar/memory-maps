@@ -58,7 +58,7 @@ Below is my Self-Realization in my desi way as today's update. Kindly review and
   - HTTPTracker se aapki site hack kar liye 😠 .usme ek html aur data.js hai 🥹🥹
   - Source code dedo. 🥹
   - **AI/ML** ka koi project bana rahe kya? Saare terminologies wahi waale hain. 😂😂 (Deep-learning🤔🤔, Neural Network 🥹🥹 jaisa kuch hi-fi bol raha tha)
-  - **My Reply**: nahi bhai ChatGPT aur YouTube videos ke help se motivational thoughts kiye hain aur ChatGPT ke through kuch words collect kar ke live kiya hai bas.
+    - **My Reply**: nahi bhai ChatGPT aur YouTube videos ke help se motivational thoughts kiye hain aur ChatGPT ke through kuch words collect kar ke live kiya hai bas.
   - Tum backend developer ho. Basic HTML ka learning se tumko koi help nhi hoga? Spring Cloud: free hai, waha backend code daal lo.
   - Apke site ko 30000 Rs (350 dollar) me 1 ghante me bana sakte hain 😂. Isse jyada ka value nhi hai iska🥹🥹🥹
     - **Internal Comment**: Thanks God!! kisi ne ye toh kaha ki iss kaam ka kuch value bhi hai. ChatGPT baba aur unke magic 🪄🪄🪄🪄 ki jai 🫡🫡🫡
@@ -68,7 +68,8 @@ Below is my Self-Realization in my desi way as today's update. Kindly review and
   - Tu **IT engineer** hai. Koi **dhang** ka kaam soch jisse tu jaldi kuch paisa kama paaye. faltu ki website mat bana 😭😭😂😂🥹🥹🥹🥹😠😠🤔
 
   - dekho maine java microservices use karke local me chalne wala kitna mast basic setup banaya hai. Tum bekaar me **java** tyag ke **html**/**css** ke chakkar me apna carreer barbaad kar liye😂😂😂
-    - **Internal comment**: aaj maze le lene do bhai. Baaki apna tarte clear hai 
+    - **Internal comment**: aaj maze le lene do bhai. Baaki apna targate clear hai 
       - **🎯Goal**: Simplify processing and retrieval of meaningful-informations from a chat backup file.
       - Bas iss baar **target date** nhi dala hai. **track** karna hai ki **worst execution time for this goal** kya hoga?? Health abhi bhi sahi nahi lag rahi. mera **Human Processor** abhi tak cool nhi hua.
+      
     - bhai!! java toh picture me lana hi hai. Apne conversation history me dekh lo. java ka kitna questions discuss kiya hai humne.. Actually mere liye react ek **bottleneck** ban gaya tha. So hum thore din ke liye Java **tyaag** diye, par aapki kripa se java ne **humko nhi tyaga**
