@@ -1,6 +1,7 @@
-> # Iteration: 18-Feb-2025--v1.1
+> # Iteration: 18-Feb-2025--v1
 >
 > - **Module** : ChatRenderer--Core-Module
+> - **Purpose of this Iteration**: **Step 1: Analyze data structure, before apply changes.**
 > - **Status** : ~🎯 Grooming in progress ~ 🏃‍➡️Working on it
 > - **Created On**: 18-Feb-2025
 > - **Target close date**: _18-feb-2025, 8:00 PM._
@@ -10,6 +11,8 @@
 ---
 
 # **MUST HAVE** TODO: Simplify processing and retrieval of `meaningful-informations` from a chat backup file.
+
+
 
 ---
 
