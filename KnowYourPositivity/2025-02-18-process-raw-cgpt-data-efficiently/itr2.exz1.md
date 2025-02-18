@@ -15,7 +15,7 @@ Below is my Self-Realization in my desi way. Kindly review and apply our above d
 
 - I have prepared a site with help of an amiging magical technology. Iske baad bhi hum sirf ek basic structure hi deploy kar paaye hain, jo koi value generate karta bhi hai ki nahi pata nahi.
 
-- I admit words like below have some magical touch, as I am feeling a **drastic** change within. However, I can not understand their **one-liner Literal meanings** in hindi and english. Also I have no knowledge to **withhold** and **apply** them properly.
+- I admit words like below have some **magical touch🔮🪄🪄**, as I am feeling a **drastic** change within. However, I can not understand their **one-liner Literal meanings** in Hindi and English. Also I have no knowledge to **withhold** and **apply** them properly.
   - **2️⃣ Data Processing Model (How Brain & Systems Work): Module-Based Approach**
     - **collect** → **process** → **store** →  **apply** → **Repeat** 🔁 ,or 
 	
@@ -43,5 +43,5 @@ Below is my Self-Realization in my desi way. Kindly review and apply our above d
   - **Layered Approach**
     - **Input 📥** → **Processing ⚙️** → **Storage 💾** → **Action 🎬**
 	
-  - **
+  - ****
 
