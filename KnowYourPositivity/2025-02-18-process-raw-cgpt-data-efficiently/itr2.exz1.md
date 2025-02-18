@@ -12,7 +12,7 @@
 
 ## Self-Realization
 
-Below is my Self-Realization in my desi way. Kindly review and apply our above discussed **Framework** to **convert** distraction to **valueable asset** (In my desi language, Apply ChatGPT Magic to prepare **pickle**😍)
+Below is my Self-Realization in my desi way as today's update. Kindly review and apply our above discussed **Framework** to **convert** distraction to **valueable asset** (In my desi language, Apply ChatGPT Magic to prepare **pickle**😍)
 
 - I have prepared a site with help of an amiging magical technology. Iske baad bhi hum sirf ek basic structure hi deploy kar paaye hain, jo koi value generate karta bhi hai ki nahi pata nahi.
 
@@ -44,5 +44,10 @@ Below is my Self-Realization in my desi way. Kindly review and apply our above d
   - **Layered Approach**
     - **Input 📥** → **Processing ⚙️** → **Storage 💾** → **Action 🎬**
 	
-  - ****
+- I am getting almost negative review comments for my deployed tiny webpage. Below are list.
+  - **"Ye kya hai??"** 🤔  
+  - **"Mobile pe bhi site mast lag rahi hai! 😍"**  
+  - **"Prev/Next, About & Dark Mode samajh aa raha hai, but English words nahi!"** 😂  
+  - **"ERP system ke alawa kuch aur samajhna mushkil hai, ye humare kaam ka nahi lagta."** 🙇‍♂️😤  
+  
 
